@@ -1,6 +1,5 @@
-// Este programa le a idade da pessoa e imprime a idade em segundos.
-// Criador: Pedro Gabriel
-// Data: 10/03/26
+// This program reads a person's age and converts it to seconds.
+// Author: Pedro Gabriel
 
 #include <stdio.h>
 
