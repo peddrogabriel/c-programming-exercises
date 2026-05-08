@@ -1,6 +1,5 @@
-// Este programa imprime quantas capsulas foram doadas e quanto cada professor podera beber.
-// Criador: Pedro Gabriel
-// Data: 24/04/26
+// This program prints the multiples of a number within a given interval using recursion.
+// Author: Pedro Gabriel
 
 #include <stdio.h>
 

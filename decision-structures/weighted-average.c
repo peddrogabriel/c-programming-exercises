@@ -1,6 +1,5 @@
-// Este programa le tres numeros e imprime a media ponderada entre eles.
-// Criador: Pedro Gabriel
-// Data: 09/03/26
+// This program calculates the weighted average of three numbers.
+// Author: Pedro Gabriel
 
 #include <stdio.h>
 

@@ -1,6 +1,5 @@
-// Este programa le o número de um funcionário, horas trabalhadas, o valor por hora e calcula o salário desse funcionário. 
-// Criador: Pedro Gabriel.
-// Data: 11/03/26
+// This program calculates an employee's salary based on worked hours and hourly wage.
+// Author: Pedro Gabriel.
 
 #include <stdio.h>
 

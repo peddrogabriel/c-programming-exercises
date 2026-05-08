@@ -1,6 +1,5 @@
-// Este programa imprime a quantidade de divisores de um numero que são divisiveis por 3.
-// Criador: Pedro Gabriel
-// Data: 23/04/26
+// This program counts the divisors of a number that are divisible by 3.
+// Author: Pedro Gabriel
 
 #include <stdio.h>
 

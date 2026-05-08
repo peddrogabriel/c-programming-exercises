@@ -1,6 +1,5 @@
-// Este programa le um numero e imprime sua tabuada.
-// Criador: Pedro Gabriel
-// Data: 10/03/26
+// This program prints the multiplication table of a given number.
+// Author: Pedro Gabriel.
 
 #include <stdio.h>
 
